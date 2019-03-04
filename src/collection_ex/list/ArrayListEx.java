@@ -31,7 +31,7 @@ public class ArrayListEx {
         }
         // 通过 toArray() 遍历集合
         collection.toArray();
-       
+
         // 通过 iterator 遍历
         Iterator iterator = collection.iterator();
         while(iterator.hasNext()){
